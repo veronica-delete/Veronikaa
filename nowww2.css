@@ -4,7 +4,7 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color:blue;
+  background-color:purple;
 }
 .box {
     width: 80%;
@@ -80,11 +80,11 @@ html, body {
 }
 .gradient2 {
 color: purple; 
-font-family:"Aria", sans-serif-serif
+font-family:"Arial", sans-serif;
 }
 .gradient3 { 
 color: pink;
-font-family: "Aria", sens-serif;
+font-family: "Arial", sans-serif;
 }
 #flat .title {
  background: white;
