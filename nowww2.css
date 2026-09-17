@@ -4,7 +4,7 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color: ?;
+  background-color:blue;
 }
 .box {
     width: 80%;
@@ -74,17 +74,17 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
  
 }
-.gradient {
+.gradient1 {
 	color: red;
-	font-family:"Arial", sana-self;
+	font-family:"Arial", sans-serif;
 }
-.gradient {
+.gradient2 {
 color: purple; 
-font-family:"Aria", sana-self;
+font-family:"Aria", sans-serif-serif
 }
-.gradient { 
+.gradient3 { 
 color: pink;
-font-family: "Aria", sena-self;
+font-family: "Aria", sens-serif;
 }
 #flat .title {
  background: white;
@@ -161,7 +161,7 @@ font-family: "Aria", sena-self;
  background-position: top center;
 }
 #flat .line-break {
- background: linear-gradient(60deg, #red, #purple, #pink);
+ background: linear-gradient(60deg, red, purple, pink);
  width: 100%;
  margin: 0 auto;
 }
@@ -171,7 +171,7 @@ font-family: "Aria", sena-self;
  margin: 0 auto;
 }
 #flat .line-break {
- background: linear-gradient(60deg, pink, red, purple;
+ background: linear-gradient(60deg, pink, red, purple);
  width: 100%;
  margin: 0 auto;
 }
