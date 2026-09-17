@@ -160,17 +160,17 @@ font-family: "Aria", sens-serif;
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flat .line-break {
+#flat .line-break1 {
  background: linear-gradient(60deg, red, purple, pink);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break {
+#flat .line-break2 {
  background: linear-gradient(60deg, purple, pink, red);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break {
+#flat .line-break3 {
  background: linear-gradient(60deg, pink, red, purple);
  width: 100%;
  margin: 0 auto;
