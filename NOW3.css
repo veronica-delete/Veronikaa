@@ -261,7 +261,15 @@ li {
 li:hover  {
    transition: width 0.3s ease-in-out;
    width: 80px;
-}section {
+}
+
+#one {background-color:#F08080;}
+#two {background-color:#FFB6C1;}
+#three {background-color:#8A2BE2;}
+#four {background-color:#7B68EE;}
+#five {background-color:#FFDAB9;}
+
+section {
   position: relative;
   margin-left: -10px;
   display: block;
@@ -269,7 +277,9 @@ li:hover  {
   height: 60vw;
   overflow: hidden;
 }
-  
+
+
+
 section .cover {
   position: absolute;
   display: block;
