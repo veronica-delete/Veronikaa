@@ -242,7 +242,9 @@ width: 95%;
 
   visibility: hidden;
 
-  opacity: 0;
+  opacity: 1;
+  color:#000000;
+  text-decoration: none;
 
 }
 
