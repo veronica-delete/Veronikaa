@@ -9,7 +9,8 @@ html, body {
   margin: 0;
 
   }
-  .box {
+
+.box {
 
   width: 100%;
 
@@ -43,7 +44,8 @@ img {
 width: 95%;
 
   }
-  #text {
+
+#text {
 
   z-index: 0;
 
