@@ -17,7 +17,7 @@ body {
   width: 330px;
   height: 530px;
   border-radius: 15px;
-  box-shadow: 0 15px 20px 10px цветтени;
+  box-shadow: 0 15px 20px 10px #FF00FF;
   background-image: url("https://raw.githubusercontent.com/veronica-delete/Veronikaa/refs/heads/main/Foon2.png");
 }
 .player input[type=range] {
