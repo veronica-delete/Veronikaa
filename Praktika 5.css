@@ -1,6 +1,6 @@
 html,
 body {
-  background-image:URL("https://raw.githubusercontent.com/veronica-delete/Veronikaa/refs/heads/main/FOON.png");
+  background-image: url("https://raw.githubusercontent.com/veronica-delete/Veronikaa/refs/heads/main/FOON.png");
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -18,7 +18,7 @@ body {
   height: 530px;
   border-radius: 15px;
   box-shadow: 0 15px 20px 10px цветтени;
-  background-image:URL("https://raw.githubusercontent.com/veronica-delete/Veronikaa/refs/heads/main/Foon2.png");
+  background-image: url("https://raw.githubusercontent.com/veronica-delete/Veronikaa/refs/heads/main/Foon2.png");
 }
 .player input[type=range] {
   -webkit-appearance: none !important;
